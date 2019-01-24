@@ -1,5 +1,5 @@
 appdirs==1.4.3
-Django==1.11
+django>=1.11.18
 django-cors-headers==2.0.2
 django-extra-fields==0.9
 djangorestframework==3.6.2
